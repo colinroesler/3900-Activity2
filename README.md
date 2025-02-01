@@ -1,1 +1,2 @@
-# 3900-Activity2
+Activity 2:
+Created two custom HTML pages ans CSS
