@@ -1,0 +1,66 @@
+/*************************************
+GENERAL STYLES
+**************************************/
+
+body {
+    font-family: 'Georgia', serif;
+    background-color: #bbbbbb; /* Light gray background */
+    color: #333; /* Darker text for readability */
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+/*************************************
+HEADINGS
+**************************************/
+
+h1 {
+    font-family: 'Trebuchet MS', serif;
+    font-size: 2em;
+    color: #0000ff;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 1.25em;
+    color: #df330a;
+    margin-top: 10px;
+}
+
+/*************************************
+IMAGES
+**************************************/
+
+img {
+    display: block;
+    max-width: 400px; /* Ensures all images are at most 400px */
+    height: 350px; /* Maintains aspect ratio */
+    margin: 15px auto; /* Centers images */
+    border-radius: 10px; /* Slightly rounded corners */
+}
+
+/*************************************
+LINKS
+**************************************/
+
+a {
+    text-decoration: none;
+    color: #0d50cd;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #d90166;
+}
+
+
